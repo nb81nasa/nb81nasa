@@ -43,5 +43,4 @@ github_profile_v3.md
 README_english.md
 README.md
 
-Track tools and referenced files used in this task.<h1 align="center">Hi there, I'm nb81nasa 👋</h1>
 
