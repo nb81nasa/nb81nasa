@@ -9,7 +9,7 @@
 🧑‍💻 What I do
 Develop new features with JavaScript, HTML, CSS and frameworks like React, Angular, Vue.js, Node.js
 Build backend services with Java & Spring Boot
-Optimize websites for faster load times and better UX, with end-to-end testing in Cypress
+Optimize websites for faster load times and better UX, with end-to-end testing in Cypress, Playwright
 Implement responsive and accessible web solutions
 Automate build, test and deployment processes and maintain infrastructure
 Monitor and analyze issues to continuously improve stability and performance
