@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm nb81nasa 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Developer;JavaScript+%7C+Java+%7C+Spring+Boot;React+%7C+Angular+%7C+Vue.js;CI%2FCD+%26+DevOps+enthusiast" alt="typing" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nb81nasa&label=Profile+views&color=58a6ff&style=flat" alt="views" /> </p>
+<h1 align="center">Hi there, I'm nb81nasa 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Developer;JavaScript+%7C+Java+%7C+Spring+Boot;React+%7C+Angular+%7C+Vue.js;CI%2FCD+%26+DevOps+enthusiast" alt="typing" /> </p> 
 🚀 About me
 💻 Full-stack software developer building modern web applications — frontend and backend
 🎓 B.Sc. in Computer Science
