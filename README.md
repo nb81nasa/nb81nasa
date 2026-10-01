@@ -34,13 +34,5 @@ DevOps, Testing & Databases
 Tools & Workflow
 
 <p> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum%20%7C%20Kanban-6E5494?style=flat" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> </p>
-📊 GitHub stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=nb81nasa&show_icons=true&hide_border=true&theme=github_dark" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb81nasa&layout=compact&hide_border=true&theme=github_dark" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nb81nasa&hide_border=true&theme=github-dark-blue" /> </p>
-
-See task progress for longer tasks.
-
-github_profile_v3.md
-README_english.md
-README.md
 
 
