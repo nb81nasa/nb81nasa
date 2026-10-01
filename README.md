@@ -13,8 +13,8 @@ Optimize websites for faster load times and better UX, with end-to-end testing i
 Implement responsive and accessible web solutions
 Automate build, test and deployment processes and maintain infrastructure
 Monitor and analyze issues to continuously improve stability and performance
-🛠 Tech stack
 
+🛠 Tech stack
 Languages
 
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat&logo=sap&logoColor=white" /> </p>
