@@ -5,7 +5,7 @@
 🏗 Background in SAP development (ABAP, BTP, Fiori, S/4HANA) for the energy sector
 ⚡ Passionate about performance optimization, accessibility and clean, responsive UIs
 🔁 Love automating things: CI/CD pipelines, Docker, Jenkins, GitLab CI
-🌍 Languages: German, English
+🌍 Languages: German, English, Russian, Japanese
 🧑‍💻 What I do
 Develop new features with JavaScript, HTML, CSS and frameworks like React, Angular, Vue.js, Node.js
 Build backend services with Java & Spring Boot
